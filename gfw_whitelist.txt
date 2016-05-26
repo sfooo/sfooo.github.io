@@ -28,4 +28,6 @@
 ||youku.com
 ||tudou.com
 ||linux.cn
+||weibo.com
+||
 
