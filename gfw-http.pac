@@ -1,6 +1,6 @@
 // https://sfooo.github.io
 
-var proxy = "HTTP 127.0.0.1:1080;";
+var proxy = "PROXY 127.0.0.1:1080;";
 
 var domains = {
   "bbc.com": 1,
