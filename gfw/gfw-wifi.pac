@@ -1,7 +1,7 @@
 // https://sfooo.github.io 用于LinuxMint wifi的PAC代理
 
 
-var proxy = "SOCKS5 10.42.0.1:1080;";
+var proxy = "SOCKS5 10.180.51.94:1080;";
 
 var domains = {
   "bbc.com": 1,
